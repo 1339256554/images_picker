@@ -1,3 +1,6 @@
+
+## 1.2.11
+update ios package
 ## 1.2.9
 add maxTime for pick video
 ## 1.2.8
